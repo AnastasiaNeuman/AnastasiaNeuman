@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Anna 👋
+
+I recently defended my Ph.D. in Chemical and Biomolecular Engineering from the University of Pennsylvania. My work focused on molecular modelling of polymer nanocomposites. 
+
+I'm currently on the job market! I'm excited about the potential of integrating AI and physics-based molecular models to solve challenges in biological and chemical systems. 
+
+
 
 <!--
 **AnastasiaNeuman/AnastasiaNeuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
