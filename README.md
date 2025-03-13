@@ -4,8 +4,12 @@ I recently defended my Ph.D. in Chemical and Biomolecular Engineering from the U
 
 I'm currently on the job market! I'm excited about the potential of integrating AI and physics-based molecular models to solve challenges in biological and chemical systems. 
 
+Links and contact:
 <a href="https://www.linkedin.com/in/anastasia-neuman-95a28b8a/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
+</a>
+<a href="https://orcid.org/0000-0002-2315-9546">
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/orcid-512.png"/>
 </a>
 
 <!--
